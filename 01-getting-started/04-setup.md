@@ -2,14 +2,14 @@
 
 This guide explains how to set up a Linux environment on:
 
-- 🪟 Windows
-- 🍎 macOS
+-  Windows
+-  macOS
 
 The goal is to create a Linux environment for learning Linux commands, shell scripting, development, Docker, DevOps, and system administration.
 
 ---
 
-# 📚 Table of Contents
+# Table of Contents
 
 - [1. Linux Setup on Windows](#1-linux-setup-on-windows)
   - [1.1 Windows Subsystem for Linux (WSL)](#11-windows-subsystem-for-linux-wsl)
